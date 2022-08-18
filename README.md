@@ -1,4 +1,8 @@
-# HomeWork-IT
+# load balancer app
+
+This app can run with nginx load balancer and is ready to
+
+Push to AWS. 
 
 to run this app, you'll need to:
 
@@ -25,3 +29,10 @@ http://localhost:9090/
 congratulation!
 
 you just build 3 apps runing through Nginx load balancer! 
+
+
+If you want to push and run through AWS you'll need to
+
+Run it through "GitHub action", before you run it
+
+You need to provide GitHub the credentials for AWS. 
