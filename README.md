@@ -16,7 +16,7 @@ docker --version
 
 docker ps
 
-3. download the repo to your machine, navigate to "HomeWork-IT" directory that you downloaded
+3. download the repo to your machine, navigate to the directory that you downloaded
 
 4. run this script:
 
