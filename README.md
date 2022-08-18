@@ -36,3 +36,5 @@ If you want to push and run through AWS you'll need to
 Run it through "GitHub action", before you run it
 
 You need to provide GitHub the credentials for AWS. 
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
